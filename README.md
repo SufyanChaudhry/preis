@@ -21,6 +21,7 @@ Project is using:
 * Php 7.4
 * Laravel 8
 * MySQL 8.0 (Engine: InnoDB, character set: utf8mb4 , collation: utf8mb4_0900_ai_ci)
+* Node > 14
 
 #### Getting the Code
 
@@ -90,6 +91,9 @@ cd Code/preis
 
 # Install Composer dependencies
 composer install
+
+# Install npm dependencies
+npm install
 
 # Run database migrations
 php artisan migrate
