@@ -1,7 +1,6 @@
 # Preis Assignment
 
 - [Project Setup](#project-setup)
-- [API Endpoints](#api-endpoints)
 
 ## Project Setup
 
